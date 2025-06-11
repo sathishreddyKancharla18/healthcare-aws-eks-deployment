@@ -1,0 +1,1 @@
+region = "us-east-1" # optional beacuse s3 is unique across all AWS accounts and regions

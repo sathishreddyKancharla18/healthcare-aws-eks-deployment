@@ -1,0 +1,1 @@
+# (Empty or you can define variables for role names if you want)
